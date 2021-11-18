@@ -1,9 +1,6 @@
 package com.ceejay;
 
-import com.ceejay.GameObjects.Card;
-import com.ceejay.GameObjects.CardValue;
-import com.ceejay.GameObjects.Deck;
-import com.ceejay.GameObjects.Suit;
+import com.ceejay.GameObjects.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,6 +12,6 @@ public class Main {
 	// write your code here
 
        // System.out.println(new Card(Suit.HEARTS, CardValue.KING));
-        Deck.createCards();
+
     }
 }

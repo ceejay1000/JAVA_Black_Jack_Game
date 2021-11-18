@@ -49,7 +49,7 @@ public class Deck {
             }
         });
 
-        System.out.println(listOf52DeckOfCards);
+        System.out.println(mixedCards);
 
     }
 
